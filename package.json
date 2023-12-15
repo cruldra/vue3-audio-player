@@ -14,6 +14,7 @@
   "bugs": {
     "url": "https://github.com/RealCoolSnow/vue3-audio-player/issues"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RealCoolSnow/vue3-audio-player.git"
